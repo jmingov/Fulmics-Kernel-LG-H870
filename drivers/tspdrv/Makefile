@@ -26,7 +26,7 @@
 # =========================================================================
 
 ifeq ($(KERNEL_ROOT),)
-    override KERNEL_ROOT = /usr/src/linux
+    override KERNEL_ROOT = ../..
 endif
 
 EXTRA_CFLAGS += -I$(M)
