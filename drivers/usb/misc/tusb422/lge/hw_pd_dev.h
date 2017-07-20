@@ -1,7 +1,7 @@
 #ifndef __HW_PD_DEV_H__
 #define __HW_PD_DEV_H__
 
-#include "tusb422_linux.h"
+#include "../tusb422_linux.h"
 
 #include <linux/kernel.h>
 #include <linux/device.h>
