@@ -8,7 +8,7 @@
 # License.  See the file "COPYING" in the main directory of this archive
 # for more details.
 #
-# Copyright (C) 2012, ARM Ltd.fv
+# Copyright (C) 2012, ARM Ltd.
 # Author: Will Deacon <will.deacon@arm.com>
 #
 # Based on the ia64 boot/Makefile.
